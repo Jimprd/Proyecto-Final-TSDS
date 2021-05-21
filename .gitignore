@@ -1,0 +1,14 @@
+# Folders
+node_modules/
+test/
+environments/
+.vscode/
+
+# Output Folders
+build/
+
+# Enviroments Variables
+.env
+
+# Routes
+route/index.js
